@@ -1,4 +1,4 @@
-//Author: Dennis Eriksson Berg || deer7807@student.su.se
+//Author: Dennis Eriksson Berg
 
 import javafx.scene.control.Alert;
 import javafx.scene.control.Label;
